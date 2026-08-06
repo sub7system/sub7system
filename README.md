@@ -1,18 +1,4 @@
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sub7system&color=0000ff" alt="Logo" />
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/fc6bf4480a59b527beaccfc1aa9301bb/ed0e5f2d4aeeed53-66/s500x750/488d0a69470645ce39e3a6c36a927e96760c5b17.gif" alt="animated" />
-
-
-<p align="center">
-Pony town info :
-
-<p align="center"> We are very commonly shy or dry, this does not mean we dont want to talk, it might just take a minute for us to warm up to you.
-We usually hang out in the same fandom spots (Valve, Band area, Creepypasta area, Homestuck area.)  
-Please don't friend us if you are under 15 unless we friend you first for any reason.
 
 
 <p align="center">
@@ -22,7 +8,7 @@ Please don't friend us if you are under 15 unless we friend you first for any re
 <br/>
 <br/>
 <p align="center">
-    <a href="https://hits.sh/github.com/skwwigelf/hits/"><img alt="Hits" src="https://hits.sh/github.com/skwwigelf/hits.svg?style=for-the-badge&label=biggest%20fans%20%20%E2%9F%A2&extraCount=2180&color=486783&labelColor=edf3e7"/></a>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsub7system&label=NEW+SOULS&icon=disc&color=%231100ff&message=&style=for-the-badge&tz=US%2FPacific">
 
 <br/>
 <br/>
@@ -63,6 +49,12 @@ Please don't friend us if you are under 15 unless we friend you first for any re
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=scwh98m72zzs7kz7m93vz96t4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=001eff&bar_color_cover=false">
   </a>
+    <p align="center">
+Pony town info :
+
+<p align="center"> We are very commonly shy or dry, this does not mean we dont want to talk, it might just take a minute for us to warm up to you.
+We usually hang out in the same fandom spots (Valve, Band area, Creepypasta area, Homestuck area.)  
+Please don't friend us if you are under 15 unless we friend you first for any reason.
 </p>
   </a>
 </p> ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
