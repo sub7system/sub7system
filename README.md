@@ -40,7 +40,8 @@
    <img src="https://64.media.tumblr.com/bcf8dcde085f3454cacf0e490ce59476/b18aff3ce9323114-c5/s640x960/51e737a312cfb42a5537a8fd8132526fad693878.gif">
 <br/>
 
-  [straw](https://sub7.straw.page)⠀ ⠀ ⠀›› ⠀ ⠀⠀[ata](https://sub7.atabook.org) ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀
+  [straw](https://sub7.straw.page)⠀ ⠀ ⠀›› ⠀ ⠀⠀[ata](https://sub7.atabook.org) ⠀ ⠀ ⠀
+  extra info beneath⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀
   <br/>
   <br/>
   <br/>
@@ -56,5 +57,15 @@ Pony town info :
 We usually hang out in the same fandom spots (Valve, Band area, Creepypasta area, Homestuck area.)  
 Please don't friend us if you are under 15 unless we friend you first for any reason.
 </p>
+nobody likes the color #0000ff as much as us.
+
+<p align="center">  
+$\color{#0000ff}{\textsf{we love all things digital and liminal . check our strawpage for more, especially our interests tab. there is lots to see in our strawpage so be sure to check it out and send us a gimmick to be added to our gallery}}$<br/>
   </a>
 </p> ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+  <p align="center">
+<img src="https://file.garden/Z8vzEG5AExJC2-sW/hlvrai-benrey.gif" alt="animated" width="720" height="130">
+   <p align="center">
+    <img src="https://64.media.tumblr.com/a4563012c03aeb5de86aa0865aa12648/63d71ad0deef8a24-9b/s250x400/e949e40de328eeba44c8d5a23a2fba96db83785a.gif" alt="animated" width="720" height="130">
+       <p align="center">
+    <img src="https://64.media.tumblr.com/020204403dd1300c6257d9e2b79d4afe/4dcca2c2f6396872-54/s400x600/3f6e8cc950649ae1168e2b97e0a2932e1870a67d.gif" alt="animated" width="720" >
