@@ -4,15 +4,24 @@
 <p align="center">
     <img src="https://64.media.tumblr.com/8e0aaf378f06bf47e9e3e67f13e593aa/360f8b70a2068734-1c/s2048x3072/b0b6ca9a4e8609f944d5577d5366fd166e310c15.png">
 
+
+<br/>
+<br/>
+<p align="center">
+https://sub7.straw.page⠀ ⠀ ⠀›› ⠀ ⠀⠀https://sub7.atabook.org⠀ ⠀ ⠀
+extra info beneath⠀ ⠀ >
+  
 <br/>
 <br/>
 <p align="center">
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsub7system&label=NEW+SOULS&icon=disc&color=%231100ff&message=&style=for-the-badge&tz=US%2FPacific">
 
+⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀
 <br/>
 <p align="center">
 <img src="https://64.media.tumblr.com/ac81a3dfb4f6e81318aeff2cfe33be98/4dcca2c2f6396872-f4/s250x400/25304127373d727495100d2a59b52ba28e4588ec.gif" width="300" align="left" hspace="25"/>
-
+⠀ 
+  
 <div align="right">
   <table>
     <tr>
