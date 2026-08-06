@@ -1,8 +1,7 @@
-
-
+  <p align="center">
+    <img src="https://file.garden/Z8vzEG5AExJC2-sW/sub7system/IMG_4635.png">
 
 <p align="center">
-    <img src="https://64.media.tumblr.com/fc6bf4480a59b527beaccfc1aa9301bb/ed0e5f2d4aeeed53-66/s500x750/488d0a69470645ce39e3a6c36a927e96760c5b17.gif" alt="animated" width="720" height="130">
     <img src="https://64.media.tumblr.com/8e0aaf378f06bf47e9e3e67f13e593aa/360f8b70a2068734-1c/s2048x3072/b0b6ca9a4e8609f944d5577d5366fd166e310c15.png">
 
 <br/>
@@ -45,7 +44,8 @@
   <br/>
   <br/>
   <br/>
-  
+
+
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=scwh98m72zzs7kz7m93vz96t4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=001eff&bar_color_cover=false">
@@ -65,6 +65,8 @@ Please don't friend us if you are under 15 unless we friend you first for any re
 </p>
 nobody likes the color #0000ff as much as us.
 
+  <p align="center">
+    <img src="https://file.garden/Z8vzEG5AExJC2-sW/sub7system/IMG_4634.png">
     
   </a>
 </p> ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
