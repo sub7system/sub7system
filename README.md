@@ -51,6 +51,11 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=scwh98m72zzs7kz7m93vz96t4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=001eff&bar_color_cover=false">
   </a>
     <p align="center">
+    
+<p align="center">  
+$\color{#0000ff}{\textsf{we love all things digital and liminal . check our strawpage for more, especially our interests tab. there is lots to see in our strawpage so be}}$<br/>
+$\color{#0000ff}{\textsf{sure to check it out and send us a gimmick to be added to our gallery}}$<br/>
+        
 Pony town info :
 
 <p align="center"> We are very commonly shy or dry, this does not mean we dont want to talk, it might just take a minute for us to warm up to you.
@@ -59,8 +64,7 @@ Please don't friend us if you are under 15 unless we friend you first for any re
 </p>
 nobody likes the color #0000ff as much as us.
 
-<p align="center">  
-$\color{#0000ff}{\textsf{we love all things digital and liminal . check our strawpage for more, especially our interests tab. there is lots to see in our strawpage so be sure to check it out and send us a gimmick to be added to our gallery}}$<br/>
+    
   </a>
 </p> ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
   <p align="center">
