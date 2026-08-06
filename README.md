@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="https://64.media.tumblr.com/fc6bf4480a59b527beaccfc1aa9301bb/ed0e5f2d4aeeed53-66/s500x750/488d0a69470645ce39e3a6c36a927e96760c5b17.gif" alt="animated" width="720" height="130">
-    <img src="https://file.garden/aSd5lebnTCh3RN_v/tumblr_5e0f8cc60c3a2fe139699d464560fd3f_2e3d566a_540.gif">
+    <img src="https://64.media.tumblr.com/8e0aaf378f06bf47e9e3e67f13e593aa/360f8b70a2068734-1c/s2048x3072/b0b6ca9a4e8609f944d5577d5366fd166e310c15.png">
 
 <br/>
 <br/>
@@ -11,9 +11,8 @@
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsub7system&label=NEW+SOULS&icon=disc&color=%231100ff&message=&style=for-the-badge&tz=US%2FPacific">
 
 <br/>
-<br/>
 <p align="center">
-<img src="https://file.garden/aSd5lebnTCh3RN_v/guiatr%20(1).gif" width="300" align="left" hspace="25"/>
+<img src="https://64.media.tumblr.com/ac81a3dfb4f6e81318aeff2cfe33be98/4dcca2c2f6396872-f4/s250x400/25304127373d727495100d2a59b52ba28e4588ec.gif" width="300" align="left" hspace="25"/>
 
 <div align="right">
   <table>
@@ -26,7 +25,8 @@
           $\color{#6B6BFF}{\textsf{ PLEASE read strwpge for all info}}$<br/>
           $\color{#ABABFF}{\textsf{a digital lifeform only on your screen⠀}}$<br/>
           $\color{#C4C4FF}{\textsf{mostly offtab so w2i}}$<br/>
-          $\color{#EDEDFF}{\textsf{⠀ ♡⠀⠀white rabbits sys, divinity sys, angelites sys, everwoven sys, bloodline sys, edens saints, corvid sys}}$<br/>
+          $\color{#EDEDFF}{\textsf{⠀ ♡⠀wr sys, divinity, angelites,⠀}}$<br/>
+                $\color{#EDEDFF}{\textsf{everwoven, bloodline, corvid, eden⠀}}$<br/>
           <br/>
       </td>
     </tr>
@@ -37,10 +37,10 @@
 
 <br/>
   <p align="center">
-   <img src="https://file.garden/aSd5lebnTCh3RN_v/tumblr_5e0f8cc60c3a2fe139699d464560fd3f_2e3d566a_540.gif">
+   <img src="https://64.media.tumblr.com/bcf8dcde085f3454cacf0e490ce59476/b18aff3ce9323114-c5/s640x960/51e737a312cfb42a5537a8fd8132526fad693878.gif">
 <br/>
-      
-  ⠀ ⠀ ›› ⠀ ⠀ [straw](https://sub7.straw.page))⠀ ⠀ ⠀›› ⠀ ⠀⠀[ata](https://sub7.atabook.org) ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀
+
+  [straw](https://sub7.straw.page)⠀ ⠀ ⠀›› ⠀ ⠀⠀[ata](https://sub7.atabook.org) ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    ⠀ ⠀
   <br/>
   <br/>
   <br/>
