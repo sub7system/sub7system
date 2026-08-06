@@ -55,7 +55,8 @@
 <p align="center">  
 $\color{#0000ff}{\textsf{we love all things digital and liminal . check our strawpage for more, especially our interests tab. there is lots to see in our strawpage so be}}$<br/>
 $\color{#0000ff}{\textsf{sure to check it out and send us a gimmick to be added to our gallery}}$<br/>
-        
+
+<p align="center">        
 Pony town info :
 
 <p align="center"> We are very commonly shy or dry, this does not mean we dont want to talk, it might just take a minute for us to warm up to you.
