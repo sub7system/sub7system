@@ -35,9 +35,6 @@ extra info beneath⠀ ⠀ >
           $\color{#C4C4FF}{\textsf{mostly offtab so w2i}}$<br/>
           $\color{#EDEDFF}{\textsf{⠀ ♡⠀wr sys, divinity, angelites,⠀}}$<br/>
                 $\color{#EDEDFF}{\textsf{everwoven, bloodline, corvid, eden⠀}}$<br/>
-        host strawpages :
-        https://sadxbox360.straw.page
-        https://passportguard.straw.page
           <br/>
       </td>
     </tr>
