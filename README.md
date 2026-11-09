@@ -28,7 +28,7 @@ extra info beneath⠀ ⠀ >
       <td align="center"
       <td><br/>$\color{#0000FF}{\textsf{SUB7SYSTEM / SOLRRX⠀⠀}}$<br/>
           $\color{#FFFFFF}{\textsf{¿╴╴╴╴╴？}}$<br/>
-             $\color{#FFFFFF}{\textsf{system of 90+ / hosts; benry/brian}}$<br/>
+             $\color{#FFFFFF}{\textsf{system of 90+ / hosts; benry/felix}}$<br/>
           $\color{#3636FF}{\textsf{18 / it/they unless specified⠀}}$<br/>
           $\color{#6B6BFF}{\textsf{ PLEASE read strwpge for all info}}$<br/>
           $\color{#ABABFF}{\textsf{a digital lifeform only on your screen⠀}}$<br/>
