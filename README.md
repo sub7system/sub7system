@@ -29,7 +29,7 @@ extra info beneath⠀ ⠀ >
       <td><br/>$\color{#0000FF}{\textsf{SUB7SYSTEM / SOLRRX⠀⠀}}$<br/>
           $\color{#FFFFFF}{\textsf{¿╴╴╴╴╴？}}$<br/>
              $\color{#FFFFFF}{\textsf{system of 90+ / hosts; benry/felix}}$<br/>
-          $\color{#3636FF}{\textsf{18 / it/they unless specified⠀}}$<br/>
+          $\color{#3636FF}{\textsf{19 / it/they unless specified⠀}}$<br/>
           $\color{#6B6BFF}{\textsf{ PLEASE read strwpge for all info}}$<br/>
           $\color{#ABABFF}{\textsf{a digital lifeform only on your screen⠀}}$<br/>
           $\color{#C4C4FF}{\textsf{mostly offtab so w2i}}$<br/>
